@@ -52,7 +52,7 @@ img {
 
 @-webkit-keyframes colorize {
     0% {
-        -webkit-filter: grayscale(100%);
+        -webkit-filter: grayscale(50%);
     }
     100% {
         -webkit-filter: grayscale(0%);
